@@ -5,6 +5,7 @@ Connect ec2 with ssh client and install the following dependencies
 3.cd <folder name>
 4.npm — npm install
 5.npm start 
+6.sudo yum install telnet nc net-tools -y 
 >>>if u have ur own code then no need to run npx command.
 >>>npx command will create new react app in the mentioned folder
 >>>along with the app it will create all dependency files like package.json,package-lock-json,src…etc (in the src folder only our app runs)
