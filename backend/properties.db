@@ -1,5 +1,5 @@
 [database]
 user=sivadev
 password=sriram2662
-host=terraform-20230612060204285900000010.cnlwcnnhcrrx.ap-south-1.rds.amazonaws.com
+host=terraform-20230614060338494500000013.cnlwcnnhcrrx.ap-south-1.rds.amazonaws.com
 database=mydb
