@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-import default App;
+export default App;
